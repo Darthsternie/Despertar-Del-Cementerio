@@ -15,7 +15,7 @@ PRX_EXPORTS = exports.exp
 USE_KERNEL_LIBC = 1
 USE_KERNEL_LIBS = 1
 
-LDFLAGS = -mno-crt0 -nostdlib -nodefaultlibs
+LDFLAGS = -nostdlib -nodefaultlibs
 LIBDIR = ../lib
 LIBS = -lpspdisplay_driver -lpspsysreg_driver -lpspsyscon_driver -lpspnand_driver -lpspsystemctrl_kernel -lpsplflash_fatfmt
 

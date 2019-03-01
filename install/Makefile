@@ -7,7 +7,7 @@ CXXFLAGS = $(CFLAGS) -fno-exceptions -fno-rtti
 ASFLAGS = $(CFLAGS) -c
 
 LIBDIR = ../lib
-LDFLAGS = -mno-crt0 -nostdlib -nodefaultlibs
+LDFLAGS = -nostdlib -nodefaultlibs
 LIBS = -lpspsystemctrl_user -lpspkubridge -lpsppower -lpsprtc -lvlfgui -lvlfgu -lvlfutils -lvlflibc -lpspreg 
 
 PSP_FW_VERSION = 271
