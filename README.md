@@ -1,9 +1,7 @@
 # Despertar-Del-Cementerio
 Contains the full sources for DCv7
-Maybe this will someday progress far enough to actually be DCv10 with support for up to Firmware 6.61 and Latest CFWs
-This all depends on my Coding Skills though and nicely said they suck.
 
+May turn into a proper DCv10 at some point.  
+The Idea is creating an up-to-date DCv7 that has support for the latest Pro and ME CFWs and also Firmware 6.61  
 
-This Repository is created for archiving purposes, you may use the code stored within this repository so long as you respect the GPLv3 License and credit the original authors.
-
-All credits go to the M33 Team Developers (Dark_Alex, adrahil, Mathieulh)
+All credits for the original code go to the M33 Team Developers (Dark_Alex, adrahil, Mathieulh)
